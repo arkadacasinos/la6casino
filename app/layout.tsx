@@ -27,6 +27,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <html lang="ru" className="bg-background">
       <head>
+        <meta name="yandex-verification" content="4287cd3a4f3989c8" />
         <meta name="robots" content="index, follow" />
         <meta name="author" content="La Casino Guide" /> 
       </head>
