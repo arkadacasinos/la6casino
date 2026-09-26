@@ -3,7 +3,7 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://la-casino-guide.example'),
+  metadataBase: new URL('https://la14casino.vercel.app'),
   title: 'La Casino — официальный сайт, зеркало и гид игрока',
   description: 'La Casino: официальный сайт, рабочее зеркало, игры онлайн и понятный гид по безопасному входу и ответственному игровому досугу.',
   keywords: ['la casino', 'la casino зеркало', 'la casino официальный сайт', 'ла казино', 'ля казино онлайн'],
